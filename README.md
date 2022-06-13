@@ -1,4 +1,4 @@
-## MLPasswordStrength
+# MLPasswordStrength
 Password Strength Analysis Using Machine/Deep Learning Models
 
 ## Key points:
